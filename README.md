@@ -9,7 +9,7 @@ O. Bouzos, I. Andreadis and N. Mitianoudis, "A Convolutional Neural Network-Base
 If you find this dataset useful in your research, please consider citing with the following Bibtex code:
 
 ```text
-@ARTICLE{mfCNNCRF,
+@article{mfCNNCRF,
   author={Bouzos, Odysseas and Andreadis, Ioannis and Mitianoudis, Nikolaos},
   journal={IEEE Transactions on Image Processing}, 
   title={A Convolutional Neural Network-Based Conditional Random Field Model for Structured Multi-Focus Image Fusion Robust to Noise}, 
