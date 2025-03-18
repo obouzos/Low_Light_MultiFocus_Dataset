@@ -1,5 +1,5 @@
 # Low Light Multi-Focus Dataset
-Includes the low-light Multi-Focus dataset of the paper:
+Includes the low-light Multi-Focus image fusion dataset of the paper:
 
 https://ieeexplore.ieee.org/document/10129238
 
