@@ -1,2 +1,2 @@
-# Low_Light_MultiFocus_Dataset
+# Low Light MultiFocus Dataset
  Low light multi-focus image fusion dataset
